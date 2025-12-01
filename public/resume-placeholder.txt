@@ -1,0 +1,6 @@
+# Resume PDF
+
+Place your resume PDF file here and name it `resume.pdf`.
+
+The download button in the About section will link to this file.
+
